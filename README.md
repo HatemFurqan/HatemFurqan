@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hatim Hussein
+- 👋 Hi, I’m Hatim Hussein
 - 👀 I’m interested in Web Development [PHP, WordPress, Laravel, NestJs, BootStrap]
 - 🌱 I’m currently learning NestJs FrameWork
 
